@@ -1,0 +1,10 @@
+rootProject.name = 'playground'
+include 'aaa'
+include 'bbb'
+include 'aaa:bbb'
+
+dependencyResolutionManagement {
+    repositories {
+        mavenCentral()
+    }
+}

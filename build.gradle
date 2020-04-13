@@ -1,0 +1,4 @@
+subprojects {
+    group 'de.cotto'
+    version '1.0-SNAPSHOT'
+}
